@@ -5,8 +5,8 @@
 		{"id":"e7dc980a78ccf11f","type":"text","text":"Lobby server (?)","x":-660,"y":-160,"width":250,"height":60,"color":"3"},
 		{"id":"9035bbb981519eb4","type":"text","text":"Vanilla+ server (Paper)","x":-340,"y":-160,"width":260,"height":60,"color":"2"},
 		{"id":"e0353de3d8d548e7","type":"text","text":"Farming world (Paper)","x":-340,"y":-360,"width":260,"height":60,"color":"#1352e7"},
-		{"id":"9f652cdcda35289c","type":"text","text":"# Plug-in list\n- [ ] Luckperm's (Paper version)\n- [ ] PlaceholderAPI\n- [ ] Packetevents (Paper version)\n- [ ] The Brewering Project\n\t- [ ] TBPGarden add-on\n- [ ] SimpleVoiceChat (Paper version)\n- [ ] Emotecraft\n- [ ] Chunky\n- [ ] ImageFrame\n- [ ] FlectonePulse (universal mod)\n- [ ] WorldEdit & WorldGuard\n- [ ] ViaVersion & ViaBackwads (maybe Paper version)\n- [ ] DoorKnocker\n- [ ] MK_Police\n- [ ] MK_Bank\n- [ ] MK_Ukladchik\n- [ ] MK_NewMiniUpdate (bottle + hanging ladders + turf and bone meal)\n- [ ] MK_BlockMixer (Concrete / Turf)\n- [ ] MK_FishingProject (revork version)\n- [ ] MK_JavaEnchant (revork version)\n- [ ] MK_AntigriefSystem (maybe revork)\n- [ ] MK_handshake\n","x":-460,"y":80,"width":498,"height":680},
-		{"id":"62abce8dbed71010","type":"text","text":"# Datapacks\n- [ ] Rebalancing Village Trade\n","x":60,"y":80,"width":498,"height":680},
+		{"id":"9f652cdcda35289c","type":"text","text":"# Plug-in list\n- [ ] Luckperm's (Paper version)\n- [ ] PlaceholderAPI\n- [ ] Packetevents (Paper version)\n- [ ] The Brewering Project\n\t- [ ] TBPGarden add-on\n- [ ] SimpleVoiceChat (Paper version)\n- [ ] Emotecraft\n- [ ] Chunky\n- [ ] ImageFrame\n- [ ] FlectonePulse (universal mod)\n- [ ] WorldEdit & WorldGuard\n- [ ] ViaVersion & ViaBackwads (maybe Paper version)\n- [ ] DoorKnocker\n- [ ] MK_Police\n- [ ] MK_Bank\n- [ ] MK_Ukladchik\n- [ ] MK_NewMiniUpdate (bottle + hanging ladders + turf and bone meal)\n- [ ] MK_BlockMixer (Concrete / Turf)\n- [ ] MK_FishingProject (revork version)\n- [ ] MK_JavaEnchant (revork version)\n- [ ] MK_AntigriefSystem (maybe revork)\n- [ ] MK_handshake\n- [ ] MK_\n","x":-460,"y":80,"width":498,"height":720},
+		{"id":"62abce8dbed71010","type":"text","text":"# Datapacks\n- [ ] Rebalancing Village Trade\n","x":60,"y":80,"width":498,"height":720},
 		{
 			"id":"86313c9e83cce32a",
 			"type":"text",
@@ -15,7 +15,7 @@
 			"x":-980,
 			"y":80,
 			"width":500,
-			"height":680
+			"height":720
 		}
 	],
 	"edges":[
